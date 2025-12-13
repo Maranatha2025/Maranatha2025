@@ -1,8 +1,6 @@
 # <center>🚀 Codificando mi camino entre la Fe y Programación👋</center>
+<img src="img.png" />
 
-<p align="center">
-  <img src="img.png" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Astronauta-Digital-0b3d91?style=for-the-badge&logo=rocket&logoColor=white" />
