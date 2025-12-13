@@ -2,14 +2,6 @@
 <img src="img.png" />
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Astronauta-Digital-0b3d91?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Lover-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Con_Propósito-6a0dad?style=for-the-badge&logo=visualstudiocode&logoColor=aquamarine" />
-</p>
-
----
-
 ## 👩‍🚀 WHO AM I?
 
 Soy **estudiante del programa Análisis y Desarrollo de Software del Servicio Nacional de Aprendizaje (SENA)** 🧑‍💻, apasionada por aprender y crear soluciones digitales que aporten valor real.  
