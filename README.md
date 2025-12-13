@@ -1,8 +1,8 @@
 # <center>🚀 Codificando mi camino entre la Fe y Programación👋</center>
-<img src="img.png" />
+<img src="img.png"/>
 
 
-## 👩‍🚀 WHO AM I?
+## 👩‍🚀 WHO AM I? 💚
 
 Soy **estudiante del programa Análisis y Desarrollo de Software del Servicio Nacional de Aprendizaje (SENA)** 🧑‍💻, apasionada por aprender y crear soluciones digitales que aporten valor real.  
 Soy **cristiana** ✝️ y **estudiante de teología**, convencida de que la tecnología puede ser una herramienta poderosa para servir, comunicar valores y generar impacto positivo en las personas.  
