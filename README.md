@@ -42,7 +42,7 @@ Me caracterizo por ser **proactiva**, responsable y con disposición para asumir
 
 <!-- GitHub -->
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="/img/Git.png" width="36" height="36" alt="GitHub" />
+<img src="/img/Git.png" width="100" height="100" alt="GitHub" />
 </a>
 </p>
 
