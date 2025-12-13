@@ -47,8 +47,6 @@ Me caracterizo por ser **proactiva**, responsable y con disposición para asumir
 </a>
 </p>
 
-=======
->>>>>>> 024452556b9a5ac6c9d1040b4ddaf75ce8a0b62e
 ### 🛡️ Conocimientos y Herramientas Complementarias
 
 - 🔐 **Ciberseguridad** (fundamentos)  
