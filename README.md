@@ -1,5 +1,5 @@
 # <center>🚀 Codificando mi camino entre la Fe y Programación👋</center>
-<img src="img.png"/>
+<img src="hola.png"/>
 
 
 ## 👩‍🚀 WHO AM I? 💚
