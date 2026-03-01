@@ -1,8 +1,5 @@
 <div style="font-family: Calibri, sans-serif; font-size: 16px; line-height: 1.5;">
 
-# <center style="font-size: 36px;">HOLA SOY ROXANA 👋</center>
-<img src="/img/hola.png" alt="Hola Roxana"/>
-
 ## 👩‍🚀 Sobre Mí
 Soy **estudiante del programa Análisis y Desarrollo de Software del Servicio Nacional de Aprendizaje (SENA)**, apasionada por aprender y crear soluciones digitales que aporten valor real.  
 Cuento **con certificados de Cisco, en HTML, CSS, Python y JavaScript**.  
