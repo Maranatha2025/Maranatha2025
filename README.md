@@ -1,6 +1,6 @@
 <div style="font-family: Calibri, sans-serif; font-size: 16px; line-height: 1.5;">
 
-##👋 Hola, soy Roxana 
+## 👋 Hola, soy Roxana 
 
 Es un gusto presentarme. A continuación, comparto un poco sobre quién soy, mi formación y mis objetivos profesionales.
 
